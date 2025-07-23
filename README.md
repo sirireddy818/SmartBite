@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartBite: Recipe & Rescue 
 
 SmartBite is an AI-powered web application designed to reduce food waste and promote food donation. It helps users:
@@ -63,3 +64,7 @@ streamlit run app.py
 
  #Community LeaderBoard
  ![LeaderBoard](images/community_leaderboard.png)
+=======
+# SmartBite
+AI-powered Food Management: Recipe Generator &amp; Donation Assistant
+>>>>>>> 469ab7ab4f3b1749335441519b6dfe6933d43b52
